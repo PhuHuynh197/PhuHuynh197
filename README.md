@@ -12,17 +12,14 @@
 ### 👨‍💻 About Me
 
 <p align="justify">
-✏️ I am <strong>Huỳnh Minh Phú</strong>, a passionate developer from Vietnam 🇻🇳.
+✏️ I'm <strong>Huỳnh Minh Phú</strong>, a fun-loving developer from Vietnam 🇻🇳<br>
+💡 Specializing in <strong>DevOps</strong> and <strong>Cybersecurity</strong>, I blend infrastructure mastery with a hacker’s mindset.<br>
+🔥 I believe great code is secure code – and great systems are built by those who understand how to break them.<br>
+🎉 I love sharing laughs while shipping production-grade solutions. Yes, you can be dead serious about security and still have fun doing it.<br>
+🤝 Always open to collaborate with like-minded devs, learners, or tech dreamers – especially in DevOps, Security, or anything cloud-native.<br>
+📍 <em>Motto:</em> <strong>"Build like a dev, think like a hacker, and never skip coffee ☕."</strong>
 </p>
-<p align="justify">
-🚀 My expertise spans Databases, Server-side technologies, DevOps, and Cloud infrastructure. I love building scalable, elegant, and efficient solutions.
-</p>
-<p align="justify">
-🌟 On this GitHub, you'll find my projects, ideas, and everything in between. I'm always eager to learn and grow!
-</p>
-<p align="justify">
-💬 Have questions or want to collaborate? Let’s connect!
-</p>
+
 
 ---
 
