@@ -1,7 +1,8 @@
 <!-- 🎉 HEADER HIỆU ỨNG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+PhuHuynh197;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+PhuHuynh197;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
