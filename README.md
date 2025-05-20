@@ -21,6 +21,9 @@
 📍 <em>Motto:</em> <strong>"Build like a dev, think like a hacker, and never skip coffee ☕."</strong>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
+</p>
 
 ---
 
@@ -32,12 +35,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhuHuynh197&layout=compact&theme=tokyonight" height="150px"/>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PhuHuynh197&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
 ---
@@ -54,6 +65,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
+</p>
+
 ---
 
 ### 🌐 Socials
@@ -67,12 +82,20 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
+</p>
+
 ---
 
 ### ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
 ---
