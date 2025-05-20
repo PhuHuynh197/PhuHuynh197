@@ -25,7 +25,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -39,7 +38,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
----
 
 ### 🏆 GitHub Trophies
 
@@ -51,7 +49,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -69,7 +66,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
----
 
 ### 🌐 Socials
 
@@ -86,7 +82,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
----
 
 ### ✍️ Dev Quote
 
@@ -98,7 +93,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" />
 </p>
 
----
 
 ### 👁️ Visitor Counter
 
