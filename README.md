@@ -88,7 +88,8 @@
 ### ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <em><strong>"If you love your life. The life will love you back."</strong></em><br>
+  — <i>Huỳnh Minh Phú</i>
 </p>
 
 <p align="center">
