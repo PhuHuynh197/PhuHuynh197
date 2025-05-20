@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 <p align="justify">
-✏️ I am <strong>Nguyễn Trí Bão Thắng</strong>, a passionate developer from Vietnam 🇻🇳.
+✏️ I am <strong>Huỳnh Minh Phú</strong>, a passionate developer from Vietnam 🇻🇳.
 </p>
 <p align="justify">
 🚀 My expertise spans Databases, Server-side technologies, DevOps, and Cloud infrastructure. I love building scalable, elegant, and efficient solutions.
