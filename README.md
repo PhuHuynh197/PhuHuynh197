@@ -4,12 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=700&center=true&vCenter=true&width=800&lines=DevSecOps+Intern;DevOps+%7C+Cybersecurity+%7C+Application+Security;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header" alt="header"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+</p>
 
 ### 👨‍💻 About Me
 
@@ -22,7 +25,19 @@
 ☕ <strong>Motto:</strong> <em>Build like a developer, defend like a security engineer.</em>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PhuHuynh197&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -88,7 +103,9 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+</p>
 
 ### 🚀 Featured Projects
 
@@ -104,7 +121,9 @@
 - **SSH Honeypot with Cowrie**  
   Deployed a honeypot lab to capture login attempts, shell activity, and attacker behavior.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+</p>
 
 ### 🌐 Connect with Me
 
@@ -123,7 +142,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+</p>
 
 ### ✍️ Quote
 
@@ -132,7 +153,9 @@
   — <i>Huỳnh Minh Phú</i>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
+</p>
 
 ### 👁️ Profile Views
 
@@ -142,4 +165,8 @@
 
 <p align="center">
   <i>Thank you for visiting my GitHub ❤️</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40px" />
 </p>
